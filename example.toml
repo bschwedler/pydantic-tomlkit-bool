@@ -1,0 +1,7 @@
+name = "example-doc"
+
+[subdoc.first]
+value = true
+
+[subdoc.second]
+value = false
